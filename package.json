@@ -1,0 +1,28 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lando-stan/teamGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lando-stan/teamGenerator/issues"
+  },
+  "homepage": "https://github.com/lando-stan/teamGenerator#readme"
+}
